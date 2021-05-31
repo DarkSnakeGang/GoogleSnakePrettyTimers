@@ -25,5 +25,5 @@ or it won't change anything
 - 'S.sss'
 - 'S:sss'
 
-# Contributors
+## Contributors
 * Fishes <3
