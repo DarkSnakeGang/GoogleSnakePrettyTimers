@@ -7,7 +7,7 @@ Paste the code from `timer.js` into the console, then
 paste into the console:
 ```
 window.snake.prettyTimer(
-  format // string, the format for the timer
+  format // string, the format for the timer (from list below)
 );
 ```
 or click the bookmark
@@ -15,7 +15,7 @@ or click the bookmark
 ### Note
 If you are using the bookmark, make sure to change the bookmark so the end of it says:
 `window.snake.prettyTimer(format);`,
-where `format` is the your desired format
+where `format` is the your desired format (from list below)
 or it won't change anything
 
 ### Formats Are:
