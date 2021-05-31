@@ -13,7 +13,8 @@ or click the book mark
 
 ### Note
 If you are using the bookmark, make sure to change the bookmark so the end of it says:
-`window.snake.prettyTimer(format);`
+`window.snake.prettyTimer(format);`,
+where `format` is the your desired format
 or it won't change anything
 
 ### Formats Are:
